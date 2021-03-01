@@ -3,7 +3,7 @@ Para escribir código cómodamente vamos a necesitar una herramienta llamada edi
 Muchos de estos editores de código (o editores a secas, de ahora en más) se pueden instalar en tu propia computadora. Algunos de ellos son: 
 
 * Sublime;
-* VisualCode;
+* Visual Studio Code;
 * Atom;
 * Vim.
 
