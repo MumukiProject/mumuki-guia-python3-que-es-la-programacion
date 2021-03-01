@@ -1,4 +1,4 @@
-Para escribir código cómodamente vamos a necesitar una herramienta llamada editor de código, que se parece bastante a un editor de texto, pero no sirve para escribir poemas, currículums, o trabajos prácticos de la escuela (donde nos va a importar que nos corrija la ortografía, subrayar, poner negritas o cambiar colores), sino para crear programas.
+Para escribir código cómodamente vamos a necesitar una herramienta llamada editor de código, que se parece bastante a un editor de texto, pero no sirve para escribir poemas, currículums, o trabajos prácticos de la escuela (donde nos va a importar que nos corrija la ortografía, subrayar, poner negritas o cambiar colores), sino para crear programas. :star_struck:
 
 Muchos de estos editores de código (o editores a secas, de ahora en más) se pueden instalar en tu propia computadora. Algunos de ellos son: 
 
