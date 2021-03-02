@@ -12,11 +12,37 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: |
     ```python
-    def hello():
-       return 4
+    
+    def doble(número):
+      return número * 2     
+
+    ```
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: |
+    ```python
+    
+    def doble(numero):
+      return numero + numero
+
+    ```
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: |
+    ```python
+    
+    def doble(numero):
+      return numero * 2     
+
     ```
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: 'def doble(numero):'
+  value: |
+    ```python
+    
+    def doble(numero)
+      return numero * 2     
+
+    ```
   checked: false
 name: No te entiendo nada
