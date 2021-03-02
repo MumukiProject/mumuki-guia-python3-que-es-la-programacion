@@ -1,2 +1,2 @@
 ---
-contain: ```pythondef saludar(nombre):  return "Hola " + nombre     ```
+equal: ```pythondef saludar(nombre):  return "Hola " + nombre     ```
