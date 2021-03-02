@@ -4,14 +4,14 @@ Además, mientras algunos lenguajes sirven cualquier tipo de problema (lenguajes
 
 Veamos ejemplos de código que hacen lo mismo en 3 lenguajes de programación distintos.
 
-* Python:
+<i class="da da-python"></i> Python:
 
 ```python
 def doble(numero):
     return numero * 2
 ```
 
-* JavaScript:
+<i class="da da-javascript"></i> JavaScript:
 
 ```javascript
 function doble(numero){
@@ -19,7 +19,7 @@ function doble(numero){
 }
 ```
 
-* Ruby:
+<i class="da da-ruby"></i> Ruby:
 
 ```ruby
 def doble(numero)
