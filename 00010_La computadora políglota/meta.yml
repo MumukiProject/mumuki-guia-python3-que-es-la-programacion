@@ -13,7 +13,7 @@ choices:
   value: |
     ```ruby
     def saludar(nombre):
-      "Hola " + nombre        
+      "Hola " + nombre            
     end
     ```
   checked: false
@@ -21,7 +21,7 @@ choices:
   value: |
     ```javascript
     function saludar(nombre) {
-      return "Hola " + nombre;
+      return "Hola " + nombre;    
     }
     ```
   checked: false
@@ -29,7 +29,7 @@ choices:
   value: |
     ```python
     def saludar(nombre):
-      return "Hola " + nombre 
+      return "Hola " + nombre     
     ```
   checked: true
 name: No te entiendo nada
