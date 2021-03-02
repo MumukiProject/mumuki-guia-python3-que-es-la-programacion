@@ -10,7 +10,7 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "<pre>hello<br>world<br></pre>"
+  value: "<code><pre>hello<br>world<br></pre></code>"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: 'def doble(numero):'
