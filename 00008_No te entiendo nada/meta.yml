@@ -16,7 +16,7 @@ choices:
   value: |
     ```python
     def doble(numero):
-      return numero + numer
+      return numero + numero
     ```
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
