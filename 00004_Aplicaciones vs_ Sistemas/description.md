@@ -1,4 +1,4 @@
-> ¿Aplicaciones vs. Sistemas? No, no estamos hablando de una nueva superproducción de Hollywood :movie_camera:
+_¿Aplicaciones vs. Sistemas? No, no estamos hablando de una nueva superproducción de Hollywood :movie_camera:_
 
 Si bien muchas veces utilizamos el término aplicación para hablar tanto de una calculadora :heavy_division_sign: como de una red social :busts_in_silhouette: no estamos hablando de lo mismo. Los sistemas están compuestos por un conjunto de programas y pueden resolver problemas más complejos e incluso múltiples problemas. En cambio, las aplicaciones solo resuelven una tarea simple y específica. 
 
