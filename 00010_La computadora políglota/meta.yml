@@ -10,28 +10,6 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Pendiente
-  checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Pendiente
-  checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Pendiente
-  checked: true
-name: La computadora políglota
-
----
-locale: es
-tags: []
-layout: input_bottom
-editor: single_choice
-type: problem
-extra_visible: false
-language: text
-teacher_info: ''
-manual_evaluation: false
-choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: |
     ```ruby
     def saludar(nombre):
