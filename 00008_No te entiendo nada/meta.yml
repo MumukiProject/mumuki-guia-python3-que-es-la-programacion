@@ -23,6 +23,6 @@ choices:
   value: "```python\ndef doble(numero):\n  return numero * 2     \n```\n"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```pythondef doble(numero)  return numero * 2     ```"
+  value: "```python\ndef doble(numero)\n  return numero * 2     \n```\n"
   checked: false
 name: No te entiendo nada
