@@ -11,4 +11,4 @@ Además, para desarrollar aplicaciones y sistemas más complejos, existen herram
 
 Pero no te preocupes, que para dar nuestros primeros pasos no vamos a necesitar instalar nada aún: Mumuki ya te provee un editor de código online. :globe_with_meridians:
 
-> Ahora te toca a vos: escribí en el editor de código de Mumuki _Quiero empezar ya a programar_. 
+> Ahora te toca a vos: escribí en el editor de código de Mumuki `Quiero empezar ya a programar`. 
