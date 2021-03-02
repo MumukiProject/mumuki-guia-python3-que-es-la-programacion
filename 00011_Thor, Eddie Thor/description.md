@@ -2,12 +2,12 @@ Para escribir código cómodamente vamos a necesitar una herramienta llamada edi
 
 Muchos de estos editores de código (o editores a secas, de ahora en más) se pueden instalar en tu propia computadora. Algunos de ellos son: 
 
-* Sublime;
-* Visual Studio Code;
-* Atom;
-* Vim.
+* [Sublime](https://www.sublimetext.com/);
+* [Visual Studio Code](https://code.visualstudio.com/);
+* [Atom](https://atom.io/);
+* [Vim](https://www.vim.org/).
 
-Además, para desarrollar aplicaciones y sistemas más complejos, existen herramientas aún más completas (¡y complejas! :sweat:) que se conocen como Entornos Integrados de Desarrollo (_IDEs_ por sus siglas en inglés). Uno de los más populares es _PyCharm_.
+Además, para desarrollar aplicaciones y sistemas más complejos, existen herramientas aún más completas (¡y complejas! :sweat:) que se conocen como Entornos Integrados de Desarrollo (_IDEs_ por sus siglas en inglés). Uno de los más populares es [PyCharm](https://www.jetbrains.com/es-es/pycharm/).
 
 Pero no te preocupes, que para dar nuestros primeros pasos no vamos a necesitar instalar nada aún: Mumuki ya te provee un editor de código online. :globe_with_meridians:
 
