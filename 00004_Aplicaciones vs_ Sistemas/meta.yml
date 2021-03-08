@@ -13,9 +13,6 @@ choices:
   value: "[Bloc de notas](https://es.wikipedia.org/wiki/Bloc_de_notas)"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Sublime](https://www.sublimetext.com)"
-  checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "[AFIP](https://www.afip.gob.ar/sitio/externos/default.asp)"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
