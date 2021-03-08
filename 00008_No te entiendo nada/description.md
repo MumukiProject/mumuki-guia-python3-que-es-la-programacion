@@ -28,7 +28,7 @@ def hola_mundo():
 print('hola mundo')
 ```
 
-Si no cumplimos con estos principios, a los cuales llamaremos _sintaxis_, la computadora no podrá interpretar nuestra intención y esto podría llevar a que nuestros programas no funcionen como lo teníamos planeado. :thumbsdown:
+Si no cumplimos con estos principios, a los cuales llamaremos _sintaxis_, la computadora no podrá interpretar nuestra intención y esto llevará a que nuestros programas no funcionen como lo teníamos planeado. :thumbsdown:
 
 > Seleccioná qué porción de código es idéntica a:
 >
