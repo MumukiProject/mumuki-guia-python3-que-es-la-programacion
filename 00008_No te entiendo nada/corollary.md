@@ -12,4 +12,4 @@ def doble(numero):
    return numero + numero
 ```
 
-Peeeero... desde el punto de vista semántico, es decir, desde su significado, hacen lo mismo. :nerd:
+Peeeero... desde el punto de vista _semántico_, es decir, desde su significado, hacen lo mismo. :nerd:
