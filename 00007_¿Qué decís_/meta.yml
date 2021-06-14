@@ -13,7 +13,7 @@ choices:
   value: ola k asé?
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: hola, ¿qué haces?
+  value: hola, ¿qué hacés?
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "?hola qué hacés¿"
