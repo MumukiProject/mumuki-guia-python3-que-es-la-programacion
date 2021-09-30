@@ -25,7 +25,7 @@ choices:
   value: Realizar videollamadas.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Reconocer imágenes
+  value: Reconocer imágenes.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Conducir un robot en Marte.
